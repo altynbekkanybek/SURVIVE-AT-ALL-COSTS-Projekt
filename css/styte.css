@@ -354,9 +354,10 @@ footer {
 }
 
 .footer_col input {
-  margin-top: 1px;
+  margin-top: 3px;
   width: 250px;
-  height: 20px;
+  height: 50px;
+  border-radius: 9px;
 }
 
 .footer_col button {
