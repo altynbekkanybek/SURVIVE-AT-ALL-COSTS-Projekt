@@ -399,23 +399,29 @@ footer {
   transition: all 0.5s ease;
 }
 
-.site .social-links a:hover {
-  color: #ffffff;
-  background-color: #e91e63;
-}
+
 
 .site p {
   padding: 20px;
   color: gray;
 }
 
-.facebook:hover{
+.site .social-links .facebook:hover {
+  color: #ffffff;
   background-color: blue;
 }
 
-.twitter:hover{
+.site .social-links .twitter:hover {
+  color: #ffffff;
   background-color: aqua;
 }
+
+.site .social-links .instagram:hover {
+  color: #ffffff;
+  background-color: #e91e63;
+}
+
+
 
 /* footer end */
 
