@@ -365,6 +365,7 @@ footer {
   margin-top: 1px;
   padding: 3px 10px;
   transition: 0.5s;
+  border-radius: 9px;
 }
 
 .footer_col button:hover {
