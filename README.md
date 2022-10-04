@@ -1,1 +1,0 @@
-# SURVIVE-AT-ALL-COSTS-Projekt
