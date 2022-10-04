@@ -409,6 +409,14 @@ footer {
   color: gray;
 }
 
+.facebook:hover{
+  background-color: blue;
+}
+
+.twitter:hover{
+  background-color: aqua;
+}
+
 /* footer end */
 
 
