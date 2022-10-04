@@ -607,6 +607,9 @@ footer {
     width: 100%;
     height: 50vh;
   }
+  .navbar_left{
+    text-emphasis: none;
+  }
 
   .content {
     margin-top: 900px;
